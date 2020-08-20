@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+    line-height: 50%;
+    margin: 5px 5px 5px 0px;
+}
+
+.col-two-container {
+    margin-top: 10%;
+    margin-left: 35%;
+}
+
+.forecast {
+    border: solid 1px;
+    height: 50%;
+    margin-left: -10%;
+    padding: 15px 15px 8px 30px;
+    
+
+.forecast-container {
+    margin-top: 10%;
+}
+
